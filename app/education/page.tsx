@@ -1,7 +1,7 @@
 export default function EducationPage() {
   return (
     <div>
-      <h1>Education</h1>
+      <h1 className="text-5xl font-bold">Education</h1>
     </div>
   )
 }
