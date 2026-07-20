@@ -1,0 +1,7 @@
+const projects = [
+    { year: 2023, name: "Next.js 14", description: "Next.js 14 is a major release of the Next.js framework, introducing several new features and improvements. It includes enhanced performance, improved developer experience, and new capabilities for building modern web applications." },
+    { year: 2022, name: "Next.js 13", description: "Next.js 13 introduced the App Router, a new routing system that allows for more flexible and powerful routing in Next.js applications. It also brought improvements to server-side rendering and static site generation." },
+    { year: 2021, name: "Next.js 12", description: "Next.js 12 focused on performance improvements and developer experience enhancements. It introduced features like Middleware, which allows developers to run code before a request is completed, and improved support for TypeScript." },
+    { year: 2020, name: "Next.js 11", description: "Next.js 11 brought several new features, including improved Fast Refresh for a better development experience, and support for Webpack 5, which provides faster builds and better caching." },
+    { year: 2019, name: "Next.js 10", description: "Next.js 10 introduced several new features such as Internationalized Routing, Image Optimization, and improved performance. It also included updates to the Next.js CLI and better support for TypeScript." }
+];
